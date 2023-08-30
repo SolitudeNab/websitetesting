@@ -1,0 +1,21 @@
+.head{
+    text-align: center;
+    color: grey;
+}
+
+.image-container{
+    text-align: center;
+}
+
+.image-container img{
+    max-width: 25%;
+    border-radius: 20%;
+}
+
+li{
+    color: red;
+}
+
+text{
+    color: lightcoral;
+}
