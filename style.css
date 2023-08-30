@@ -1,6 +1,10 @@
+body{
+    background-color:antiquewhite;
+}
+
 .head{
     text-align: center;
-    color: grey;
+    color: lightcoral;
 }
 
 .image-container{
@@ -8,14 +12,19 @@
 }
 
 .image-container img{
-    max-width: 25%;
+    max-width:100%;
+    height: 300px;
     border-radius: 20%;
 }
 
 li{
-    color: red;
+    color: black;
 }
 
 text{
     color: lightcoral;
+}
+
+em{
+    color:lightcoral;
 }
